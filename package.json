@@ -1,0 +1,25 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "learning modules in js",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OCEAN-JS/modules.git"
+  },
+  "keywords": [
+    "modules",
+    "js",
+    "import",
+    "export"
+  ],
+  "author": "rinat",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/OCEAN-JS/modules/issues"
+  },
+  "homepage": "https://github.com/OCEAN-JS/modules#readme"
+}
