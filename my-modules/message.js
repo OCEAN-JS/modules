@@ -1,3 +1,3 @@
-import { name } from './name';
+import { name } from './name.js';
 
 export default `Hello, ${name}`;
